@@ -1,6 +1,5 @@
 import pyautogui
 from time import sleep
-import threading
 import keyboard
 
 # Link do jogo - https://guitarflash.com/?lg=pt
